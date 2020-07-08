@@ -1,0 +1,1 @@
+# docker_mid_hadoop
